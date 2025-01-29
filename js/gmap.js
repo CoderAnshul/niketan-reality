@@ -25,7 +25,7 @@ function initialize() {
     //change address details here
     var contentString = '<div class="map-info">' 
     + '<div class="map-title">' 
-    + '<div class="brand" href="#"> <a href="/index.html"><img alt="" src="images/niketan.png" style="height:50px; margin-top:-20px;"></a><div class="brand-info"><div class="brand-name">niketan</div><div class="brand-text">reality</div></div></div></div>' 
+    + '<div class="brand" href="#"> <img alt="" src="images/niketan.png" style="height:55px;"><div class="brand-info"><div class="brand-name">niketan</div><div class="brand-text">reality</div></div></div></div>' 
     + '<p class="map-address">'
     + '<div class="map-address-row">'
     + '  <i class="fa fa-map-marker"></i>'
